@@ -3,12 +3,9 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "shop_manager"
+name = "lab_02"
 version = "0.1.0"
-description = "Laboratory work #2 - Shop Manager (Variant 3)"
+description = "Laboratory work #2 (Variant 3)"
 readme = "README.md"
 requires-python = ">=3.9"
 dependencies = []
-
-[project.scripts]
-shop-manager = "shop_manager.main:main"
